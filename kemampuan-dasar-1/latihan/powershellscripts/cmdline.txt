@@ -1,0 +1,26 @@
+active
+add
+attrib
+append
+arp
+assign
+auditpol
+autochk
+bcdboot
+bitsadmin
+bootcfg
+break
+cacls
+call
+cd
+change
+certutil
+chcp
+chdir
+chglogon
+chgport
+date
+delete
+detach vdisk
+detail
+dfsdiag
